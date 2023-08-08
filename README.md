@@ -1,4 +1,4 @@
-## ⭐ E-Learning ⭐
+## ⭐ Landing-Home-Page ⭐
 
 It's a website that has been designed to mimic the design of the popular E-Learning-Website.
 Our Educational Website would provide all the education-related stuffs:  
@@ -25,7 +25,7 @@ Interview questions for students who are preparing for placements.
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+
 
 <br>
 <br>
